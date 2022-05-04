@@ -1,0 +1,44 @@
+header {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Water Brush', cursive;
+    font-size: 3em;
+    text-align: center;
+    color: #A85CF9;
+    margin-top: 20px;
+    margin-bottom: 40px;
+ 
+}
+ .No_marker{
+    list-style: none;
+    text-decoration: none
+ }
+
+.menu li {
+    padding: 10px;
+     font-size: 1.5em;
+    
+    display: inline;
+}
+
+.menu li:nth-child(1) {
+    margin-left: 34%;
+}
+.menu li a {
+    
+    color: #5534A5;
+}
+.paragraf{
+    font-size: 1.1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#Main-page-link{
+  text-decoration: none;
+  color: #5534A5;
+
+}   
+#paragraf_1{
+   text-align: center;
+  
+}
