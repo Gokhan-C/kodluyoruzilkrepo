@@ -1,0 +1,48 @@
+#logo{
+margin: 0 38%;
+}
+
+#Search_blok{
+    background-color: #EEEEEE;
+}
+.mb-0{
+    margin-bottom: 0;;
+}
+.mt-0{
+    margin-top: 0;;
+}
+.ml-30{
+    margin-left: 30px;
+}
+.ml-10{
+    margin-left: 10px;
+}
+
+.justcenter{
+    text-align: center;
+}
+.center{
+margin : 0 auto;
+width: 260px;
+}
+
+.link{
+
+    margin-right: 5px;
+    float: left;
+    height: 90px;
+    margin-top: 2px;
+    background-color: rgb(102, 214, 176);
+}
+.link:nth-child(1){
+    margin-left: 20px;
+    width: 38%;
+}
+.link:nth-child(2){
+    
+    width: 20%;
+}
+.link:nth-child(3){
+    
+    width: 38%;
+}
