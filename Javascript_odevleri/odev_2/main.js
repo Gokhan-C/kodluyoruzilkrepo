@@ -1,6 +1,6 @@
 const listDOM = document.querySelector("#list")
 const taskDom = document.querySelector("#task")
-
+localStorage.setItem("list", JSON.stringify(taskDom))
 function newElement() {
     if (taskDom.value != "") {
 
@@ -39,3 +39,8 @@ function removelisk() {
 function finishToDo() {
     this.classList.toggle("checked")
 }
+
+localStorage.setItem("list", JSON.stringify(taskDom))
+
+
+
