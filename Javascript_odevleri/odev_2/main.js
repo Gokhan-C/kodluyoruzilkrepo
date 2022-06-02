@@ -27,11 +27,7 @@ function newElement() {
     } else {
         $('.bos').toast('show')
     }
-
-
-
     }
-
 function removelisk() {
     this.parentElement.remove();
 }
